@@ -1,0 +1,7 @@
+Porting to PPC Artechture
+
+- Base address of parallel flash
+
+- Word/byte mode
+
+- PPC artechture support
